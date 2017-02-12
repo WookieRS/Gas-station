@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 72cc4b38f885c9b4ea31b1a88f574e22
+timeCreated: 1464773723
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ghostMaterial: {fileID: 2100000, guid: c33031bbf84bdb847b48d9ca32800668, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
